@@ -8,7 +8,8 @@ This module contains some example asadmin scripts for managing Payara
 This module contains some samples demonstrating JCache API with Payara 4.1.153
 
 ### Java EE
-Some simple Java EE example applications
+Some simple Java EE example applications  
+Payara Clustered Singleton example application
 
 ### Payara Micro
 Example applications showing features of Payara Micro
@@ -21,3 +22,4 @@ Some examples of additional Payara services, including:
 
 * Request Tracing Service
 * Notification Service
+* EclipseLink Cache Coordination / Invalidation MDB examples
